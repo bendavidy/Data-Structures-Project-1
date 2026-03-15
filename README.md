@@ -1,2 +1,2 @@
-# DataSHW
+# Data Structures HW
 100
